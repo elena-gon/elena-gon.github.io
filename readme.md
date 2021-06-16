@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : Red Schetcbook
+**Titulo** : Red Scketchbook
 
 **Web:**   elena-gon.github.io 
 
@@ -18,15 +18,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:** Portfolio 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : no he creado ninguna clase de simbolo ni logotipo. 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 **Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 
+**Tamaño proyecto:** 59,3KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -35,16 +33,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
-
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-  Mi proyecto comienza cn uan breve vista de una habitación, y acaba enfrente de un cuaderno rojo. Aparecen entonces unos botones y para controlar el volumen y la pausa de la muscica. Las categorías que se encuentran en el menú están cada una mostrada de una manera, los dibujos son un juego de puzle, los retratos se presentan en un video, por el otro lado los collages y las pinturas son simples galerías. También se muestra el botón de los créditos. 
-
-
+  Mi proyecto comienza con la vista de una habitación, y acaba enfrente de un cuaderno rojo. Aparecen entonces unos botones y para controlar el volumen y la pausa de la música. Las categorías que se encuentran en el menú están cada una mostrada de una manera, los dibujos son un juego de puzle, los retratos se presentan en un video, por el otro lado los collages y las pinturas son simples galerías. También se muestra el botón de los créditos en los que aparecen mi nombre la asignatura la facultad y el curso, este tiene un botón de regreso al menú. 
 
 ### 2.2. Esquema de navegación 
 
@@ -56,9 +49,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
+  Con el porgrama de Adobe Draw pude realizar las ilustraciones para crear los botones, titulos y animaciones. y con el photoshop pude ajustar las imagenes a lo que necesitaba. Y ya con hippani fue posible juntarlo todo. 
 
 ### Etapa 1: Ideación de proyecto
 
@@ -82,22 +73,15 @@ Este  proyecto es interesante porque es una manera diferente a la que suelo most
 
 - Juego. 
 - Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
+- Control del volumen 
+- Libre navegación,podiendo volver de vuelta al menú después de seleccionar una categoría. 
+- Animación. 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
-
-
 # 4. Conclusiones 
 
-El problema más grande con el que me he encontrado ha sido entender el programa en si, aun así con un poco de ayuda e investigación he llegado a entender y hacer algunas cosas. También a la hora de mantener un mínimo de peso ya que al contar con tantas cosas dentro del proyecto ha terminado pesando bastante más de lo que se había propuesto, incluso después de disminuir las imagenes y elementos y reemplazarlos. Por otro lado, la aplicación del video me dio bastantes problemas, aunque creo haberlo resuelto correctamente. 
-
+El problema más grande con el que me he encontrado ha sido entender el programa en si, aun así con un poco de ayuda e investigación he llegado a entender y hacer algunas cosas. También a la hora de mantener un mínimo de peso ya que al contar con tantas cosas dentro del proyecto ha terminado pesando bastante más de lo que se había propuesto, incluso después de disminuir las imagenes y elementos y reemplazarlos. Por otro lado, la aplicación del video me dio bastantes problemas, aunque creo haberlo resuelto correctamente. En general, aunque no me he llavado muy bien con el programa, una vez que he ido entendienolo, y el JavaScript, he ido resolviendo los problemas. 
 
 # 5 Referencias 
 
@@ -107,9 +91,9 @@ El problema más grande con el que me he encontrado ha sido entender el programa
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica:  He seleccionado múscia sin copyright
+* Imágenes:  Las imagenes las he sacado todas yo, y las imagenes de las ilustraciones, y los dibujos que se muestran los he realizado yo. 
+* Tipografía:La tipografía ha sido toda escrita a mano, de manera digitla, a excepción de mi nombre al comienzo del portfolio.
 
 **Herramientas utilizadas**
 
