@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Red Schetcbook
 
-**Web:**   (url github.io)
+**Web:**   elena-gon.github.io (creo que es el url del juego)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Elena González Quesada 
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : En este proyecto se presentan utilizando diferentes medios algunos de mis trabajos, como dibujos, collages, pinturas, etc. Se trata basicamente de un portfolio interactivo, donde se pueden seleccionar la categoría que se quiera ver, incluye música, una pequeña animación en el menú y en una de las categorías un juego. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Portfolio 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -24,13 +24,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 17/06/2021
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -44,10 +44,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+  Mi proyecto comienza cn uan breve vista de una habitación, y acaba enfrente de un cuaderno rojo. Aparecen entonces unos botones y para controlar el volumen y la pausa de la muscica. Las categorías que se encuentran en el menú están cada una mostrada de una manera, los dibujos son un juego de puzle, los retratos se presentan en un video, por el otro lado los collages y las pinturas son simples galerías. También se muestra el botón de los créditos. 
 
 
 
@@ -73,24 +70,17 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- Me inspiré para hacer este proyecto en los "Sketchbook tours", videos que artistas suben enseñando sus cuadernos de trabajo. ![Uploading hab 3.jpg…]()
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este  proyecto es interesante porque es una manera diferente a la que suelo mostrar lo que hago, es un formato digital y no es algo a lo que me haya acostumbrado aún. Me resultó interesante la idea de crear un portfolio que fuese interactivo. 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
-
+- Orientado a todos los publicos
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
@@ -112,35 +102,29 @@ Este  proyecto es interesante porque ...
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+El problema más grande con el que me he encontrado ha sido entender el programa en si, aun así con un poco de ayuda e investigación he llegado a entender y hacer algunas cosas. También a la hora de mantener un mínimo de peso ya que al contar con tantas cosas dentro del proyecto ha terminado pesando bastante más de lo que se había propuesto, incluso después de disminuir las imagenes y elementos y reemplazarlos. Por otro lado, la aplicación del video me dio bastantes problemas, aunque creo haberlo resuelto correctamente. 
 
 
 # 5 Referencias 
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+- como ya dije antes lo que me inspiro, y fue algo así como una referencia fueron los videos de alunos artistas, que suben a las plataformas o redes sociales mostrando el trabajo en sus cuaderno de trabajo. 
 
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
 * Imágenes:  
-* Tipografía
+* Tipografía: 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop
+- Polarr (programa de edición de imagenes)
+- Adobe Draw 
 
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2021
