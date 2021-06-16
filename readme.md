@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Red Schetcbook
 
-**Web:**   elena-gon.github.io (creo que es el url del juego)
+**Web:**   elena-gon.github.io 
 
 **Autor:**  Elena González Quesada 
 
