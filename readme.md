@@ -1,4 +1,4 @@
-## Red Sketchbook_Elena GonzáleZ Quesada 2ºP
+## Red Sketchbook_Elena González Quesada 2ºP
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -48,6 +48,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
+
+  Esto sería algo parecido a una guía del juego o de su contenido. Una especie de boceto de las diferentes partes que tiene. 
+  
 ![croquis_red sketchbook](https://user-images.githubusercontent.com/85367021/122269486-8d617200-cedd-11eb-8619-bc20da661f60.png)
 
 
