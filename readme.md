@@ -48,14 +48,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![croquis_red sketchbook](https://user-images.githubusercontent.com/85367021/122269486-8d617200-cedd-11eb-8619-bc20da661f60.png)
 
 
 # 3. Metodología
