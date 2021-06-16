@@ -61,7 +61,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Me inspiré para hacer este proyecto en los "Sketchbook tours", videos que artistas suben enseñando sus cuadernos de trabajo. ![Uploading hab 3.jpg…]()
+- Me inspiré para hacer este proyecto en los "Sketchbook tours", videos que artistas suben enseñando sus cuadernos de trabajo. 
 
 
 **Motivación de la propuesta** 
