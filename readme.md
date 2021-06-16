@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Red Sketchbook_Elena GonzáleZ Quesada 2ºP
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -38,8 +38,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Twitter
 - Instagram
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
